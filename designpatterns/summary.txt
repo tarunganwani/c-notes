@@ -1,0 +1,19 @@
+So far, we have covered the following design patterns:
+
+Singleton Pattern: Ensures that a class has only one instance and provides a global point of access to it.
+
+Factory Method Pattern: Defines an interface for creating objects but lets subclasses decide which class to instantiate.
+
+Builder Pattern: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+Decorator Pattern: Dynamically adds behavior to an object by wrapping it in an object of a decorator class.
+
+Composite Pattern: Composes objects into tree structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions of objects uniformly.
+
+Observer Pattern: Defines a one-to-many dependency between objects, where a change in one object triggers updates to all its dependents.
+
+Visitor Pattern: Separates an algorithm from the objects on which it operates, allowing new operations to be added without modifying the objects.
+
+Template Method Pattern: Defines the skeleton of an algorithm in a base class, allowing subclasses to provide their own implementations for certain steps of the algorithm.
+
+Chain of Responsibility Pattern: Allows an object to pass a request along a chain of potential handlers until the request is handled or reaches the end of the chain.
